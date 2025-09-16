@@ -15,6 +15,7 @@ public class FbLogin {
 		name = "jameryan";
 		pass = "randomPass";
 
+		//chromedriver123
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.facebook.com/");
 
